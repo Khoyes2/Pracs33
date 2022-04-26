@@ -21,6 +21,13 @@ exports.shows = (req,res) => {
                 Episodes: 3,
                 Airing: "True",
                 mangaFinished: "False"
+            },
+            {
+                id: 4,
+                Name: "Re Zero",
+                Episodes: 38,
+                Airing: "False",
+                mangaFinished: "True"
             }
         ]
     })
