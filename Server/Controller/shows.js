@@ -1,6 +1,6 @@
 exports.shows = (req,res) => {
     res.json({
-        shows:[
+        Shows:[
             {
                 id: 1,
                 Name: "Attack On Titan",
