@@ -1,0 +1,23 @@
+{
+  "name": "pracs3",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khoyes/Pracs3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khoyes/Pracs3/issues"
+  },
+  "homepage": "https://github.com/Khoyes/Pracs3#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.15"
+  }
+}
