@@ -5,19 +5,22 @@ exports.shows = (req,res) => {
                 id: 1,
                 Name: "Attack On Titan",
                 Episodes: 100,
-                Airing: "False"
+                Airing: "False",
+                mangaFinished: "True"
             },
             {
                 id: 2,
                 Name: "Hunter Hunter",
-                Episodes: 126,
-                Airing: "False"
+                Episodes: 148,
+                Airing: "False",
+                mangaFinished: "False"
             },
             {
                 id: 3,
                 Name: "Spy x Family",
                 Episodes: 3,
-                Airing: "True"
+                Airing: "True",
+                mangaFinished: "False"
             }
         ]
     })
